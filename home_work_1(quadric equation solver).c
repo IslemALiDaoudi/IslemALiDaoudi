@@ -1,4 +1,4 @@
-//home work 1: a code to solve the quadric formula
+//home work 1: a code to solve the quadric equation
 #include <stdio.h>
 #include <math.h>
 
