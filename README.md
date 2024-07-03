@@ -1,2 +1,1 @@
-What am I doing here?
-*cough*
+just a homework for college
